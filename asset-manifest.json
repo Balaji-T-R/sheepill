@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sheepill/static/css/main.e6c13ad2.css",
+    "main.js": "/sheepill/static/js/main.c35e76c8.js",
+    "static/js/453.bf607450.chunk.js": "/sheepill/static/js/453.bf607450.chunk.js",
+    "static/media/Shepill_Logo.png": "/sheepill/static/media/Shepill_Logo.21e556762b8b47a26bdb.png",
+    "index.html": "/sheepill/index.html",
+    "main.e6c13ad2.css.map": "/sheepill/static/css/main.e6c13ad2.css.map",
+    "main.c35e76c8.js.map": "/sheepill/static/js/main.c35e76c8.js.map",
+    "453.bf607450.chunk.js.map": "/sheepill/static/js/453.bf607450.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c35e76c8.js"
+  ]
+}
